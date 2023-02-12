@@ -2,7 +2,6 @@
 
 👀 I’m interested in Software development .
 
-🌱 I am currently working as : Laravel developer.
 
 🌱 I’m currently learning : NodeJS,React.
 
